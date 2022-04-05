@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-bir 
-ikki
-uch
-=======
 first
 second
 third
->>>>>>> test
